@@ -34,7 +34,7 @@ ChatBuzz leverages Firebase as its backend, ensuring real-time synchronization, 
 - **Backend:** Firebase (Firestore) for real-time messaging, Firebase Auth for authentication, and Firebase Cloud Messaging for push notifications.
 - **Storage:** Firebase Cloud Storage for multimedia handling.
 
-Download ChatBuzz today and unlock a new level of seamless communication!
+Download ChatBuzz today and deploy with firebase!
 
 ## Installation
 
