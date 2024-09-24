@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "944789321658",
+    "firebase_url": "https://chat-app-saibhandari1999.firebaseio.com",
+    "project_id": "chat-app-saibhandari1999",
+    "storage_bucket": "chat-app-saibhandari1999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944789321658:android:f589c271476df64a0bcf83",
+        "android_client_info": {
+          "package_name": "com.example.chatappsaibhandari1999"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944789321658-vjscbkbpda78v9svc07mpu8vbg505tgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2TwwobF86NP3dyBKancBLtYMpxWzYtrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944789321658-vjscbkbpda78v9svc07mpu8vbg505tgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
